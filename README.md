@@ -16,12 +16,9 @@ Ensure you have Node.js and npm installed on your machine.
    git clone https://github.com/niyambhat/react-hook-form-registration.git
    cd react-hook-form-registration ```bash
    
-2. Install dependencies 
+2. Install dependencies and run
   ```bash
 npm install
+npm start
 ```bash
 
-4. Running the Project
-To start the development server, run:
-```bashnpm start
-```bash
