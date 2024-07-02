@@ -18,7 +18,7 @@ Ensure you have Node.js and npm installed on your machine.
    
 2. Install dependencies and run
   ```bash
-npm install
-npm start
+   npm install
+   npm start
 
 
